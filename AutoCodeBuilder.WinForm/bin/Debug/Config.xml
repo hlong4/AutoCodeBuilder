@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="GB2312"?>
+<config>
+<connection Server="." DataBaseName="AlumnusDB" VerifyType="0" UserName="" Password="" />
+  <connection Server="." DataBaseName="main_db" VerifyType="0" UserName="" Password="" />
+</config>
